@@ -1,0 +1,5 @@
+require "wso2soap/client"
+require "wso2soap/version"
+require "wso2soap/configuration"
+require "wso2soap/error_messages"
+require "savon"
